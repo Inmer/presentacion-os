@@ -26,6 +26,8 @@
             border-radius: 3px;
         }
     }
+
+
     @media (min-width: 992px) {
         height: 100vh;
         min-height: 775px;
